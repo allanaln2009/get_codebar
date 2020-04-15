@@ -1,7 +1,7 @@
 # CodebarAuto
 Tool to obtain automated barcode for services CPFL Paulista, Sabesp and Vivo.
 
-# Techs
+## Techs
 * [Node.js][node.js] 
 * [Selenium WebDriver][selenium]
 
