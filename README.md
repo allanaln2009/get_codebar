@@ -10,7 +10,7 @@ Tool to obtain automated barcode for services CPFL Paulista, Sabesp and Vivo.
 ## TODO
 |Company|Implemented?|Is working?|
 | -     | -          | -         |
-<img src="http://site.sabesp.com.br/site/favicon.ico" height="16" width="16">[sabesp] [Sabesp][sabesp]|Yes|Yes|
+[<img src="http://site.sabesp.com.br/site/favicon.ico" height="16" width="16">][sabesp] [Sabesp][sabesp]|Yes|Yes|
 [![](https://www.cpfl.com.br/Style%20Library/imagens/icons/favicon.ico)][cpfl] [CPFL][cpfl]|No|-|
 [![](https://login.vivo.com.br/loginmarca/favicon.ico)][vivo] [Vivo][vivo]|No|-|
 <img src="https://github.com/favicon.ico" height="16" width="16">|Not available|- |
