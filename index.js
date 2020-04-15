@@ -18,7 +18,7 @@ async function getSabesp(driver) {
 
   //Fill RGI
   element = await driver.findElement(By.id("frmhome:rgi1"));
-  await element.sendKeys("04812565/20");
+  await element.sendKeys("XXXXXXXX/XX");
   //Click in next
   element = await driver.findElement(By.id("frmhome:j_id172"));
   await proceed(element);
