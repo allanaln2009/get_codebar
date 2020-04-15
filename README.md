@@ -1,8 +1,6 @@
 # CodebarAuto
 Tool to obtain automated barcode for services CPFL Paulista, Sabesp and Vivo.
 
-[![N|Solid](https://login.vivo.com.br/loginmarca/favicon.ico)][vivo]
-
 # Techs
 * [Node.js][node.js] 
 * [Selenium WebDriver][selenium]
