@@ -12,10 +12,8 @@ Tool to obtain automated barcode for services CPFL Paulista, Sabesp and Vivo.
 | -     | -          | -         |
 [<img src="http://site.sabesp.com.br/site/favicon.ico" height="16" width="16">][sabesp] [Sabesp][sabesp]|Yes|Yes|
 [<img src="https://www.cpfl.com.br/Style%20Library/imagens/icons/favicon.ico" height="16" width="16">][cpfl] [CPFL][cpfl]|No|-|
-[![](https://login.vivo.com.br/loginmarca/favicon.ico)][vivo] [Vivo][vivo]|No|-|
-<img src="https://github.com/favicon.ico" height="16" width="16">|Not available|- |
-<img src="https://github.com/favicon.ico" height="24">|Not available|- |
-[![](https://www8.receita.fazenda.gov.br/SimplesNacional/img/marca_Simples.png)][vivo] [Simples Nacional][simples]|-|-|
+[<img src="https://login.vivo.com.br/loginmarca/favicon.ico" height="16" width="16">][vivo] [Vivo][vivo]|No|-|
+[![](https://www8.receita.fazenda.gov.br/SimplesNacional/img/marca_Simples.png)][simples] [Simples Nacional][simples]|-|-|
 
 ### To do
 - Return content in JSON
